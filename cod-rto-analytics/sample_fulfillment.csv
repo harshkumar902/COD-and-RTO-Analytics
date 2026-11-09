@@ -1,0 +1,7 @@
+order_id,payment_method,status,order_value,forward_shipping,return_shipping,courier
+EE101,COD,DELIVERED,1200,80,0,Courier A
+EE102,COD,RTO,1200,80,130,Courier B
+EE103,PREPAID,DELIVERED,1200,60,0,Courier A
+EE104,COD,DELIVERED,900,80,0,Courier B
+EE105,PREPAID,RETURNED,1200,60,120,Courier A
+EE106,COD,RTO,1000,80,130,Courier A
